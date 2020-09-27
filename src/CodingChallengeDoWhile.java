@@ -17,7 +17,7 @@ public class CodingChallengeDoWhile {
         }while(k==1);
         {}
         System.out.println("Thank you and goodbye");
-        System.out.println("This is update test on GitHub");
+        System.out.println("This is update 2 test on GitHub");
 
     }
 }
